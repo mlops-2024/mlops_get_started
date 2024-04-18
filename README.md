@@ -96,6 +96,12 @@ Human only -> shadow mode -> HITL( ai assistance -> Partial automation ) -> Full
     - enterprise data can shift fast (B2B data shifts quickly)
 
 
+
+
+- [week1 Exercise](./week1_server.ipynb)
+
+
+
 # Week 2: Modeling
 
 - Model-centric AI development
@@ -284,4 +290,9 @@ Desirable features on Experiment tracking system
 - See how class imbalance negatively affects model evaluation.
 
 - Solve overfitting problems by using Data Augmentation techniques.
+
+- [week2](./week2_Birds_Cats_Dogs.ipynb)
+
+
+# Week3: Define Data and Establish Baseline
 
